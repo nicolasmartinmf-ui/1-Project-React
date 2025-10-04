@@ -1,0 +1,33 @@
+.Product-section {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+.Product-img {
+    height: 100%;
+    width: auto;
+}
+.Product-info{
+    text-align: center;
+    padding: 40px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.Product-title {
+    font-size: 1.3rem;
+}
+.Product-price {
+    font-size: 1.2rem;
+    color: #000;
+}
+.Product-description {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
